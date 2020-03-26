@@ -6,6 +6,3 @@ branding:
 runs:
   using: 'node12'
   main: 'dist/index.js'
-- name: wakatime-sync
-  uses: superman66/wakatime-sync@v1.0.0
-
